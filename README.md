@@ -16,5 +16,7 @@ description: 'gihub url : https://github.com/amirshnll/skimage-persian-userguide
 
 {% page-ref page="donate.md" %}
 
+**ایمیل من :** [amirsh.nll \[at\] gmail.com](mailto:amirsh.nll@gmail.com)
 
+**وبلاگ من:** [https://ashokri.com](https://ashokri.com)
 
