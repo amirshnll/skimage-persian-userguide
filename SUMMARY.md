@@ -2,6 +2,7 @@
 
 * [سلام دنیا](README.md)
 * [از اینجا شروع کنید](getting-started.md)
+* [خلاصه ای از numpy برای درک بهتر](a-crash-course-on-numpy-for-images.md)
 * [انواع داده های تصویری](image-data-types-and-what-they-mean.md)
 * [ساختار ورودی/خروجی](i-o-plugin-infrastructure.md)
 * [مدیریت فایل های ویدیویی](handling-video-file.md)
@@ -13,4 +14,5 @@
 * [نمایشگر تصویر](image-viewer.md)
 * [حمایت مالی](donate.md)
 * [نسخه ی انگلیسی](https://scikit-image.org/docs/dev/user_guide.html)
+* [صفحه پروژه در گیت هاب](https://github.com/amirshnll/skimage-persian-userguide)
 
