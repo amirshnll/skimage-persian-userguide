@@ -6,7 +6,7 @@ description: Donate
 
 این پروژه [تحت لایسنس MIT](https://github.com/amirshnll/skimage-persian-userguide/blob/main/LICENSE) منتشر شده است که مجوزها مربوط به آن در توضیحات این نوع لایسنس قرار گرفته است پس حمایت مالی از پروژه هیچ تغییری در نوع دسترسی شما به محتوای آن نخواهد داشت و هیچ اجباری در این موضوع نیست.
 
-در صورت علاقه از روش های زیر استفاده کنید:
+**در صورت علاقه از روش های زیر استفاده کنید:**
 
 **Donate \(BTC Address\) :** 188GPtyoyz2LXXxbyWcCrDgUM7ejSHHgZd
 
