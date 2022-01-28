@@ -24,7 +24,7 @@ description: 'gihub url : https://github.com/amirshnll/skimage-persian-userguide
 
 **ایمیل من :** [amirsh.nll \[at\] gmail.com](mailto:amirsh.nll@gmail.com)
 
-**وبلاگ من:** [https://ashokri.com](https://ashokri.com)
+**وبلاگ من:** [https://ashokri.com/blog](https://ashokri.com/blog)
 
 این مستندات  در گرمای تابستانی 1400 به فارسی بازگردانی شده است و برای نمایش آن از [GitBook ](https://gitbook.com)استفاده شد است؛ اگر در حال مطالعه ی این بخش هستید از طرف خودم براتون آرزوی دلگرمی می کنم.
 
